@@ -4,5 +4,7 @@ A sequel game (modified version) of Galaga, a Japanese arcade game developed and
 ## Basic Controls
 | Control       | Action        |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| A or Left Arrow | Move Fighter Left     |
+| D or Right Arrow | Move Fighter Right    |
+| W or Up Arrow | Pause Fighter |
+| Left Click | Shoot |
